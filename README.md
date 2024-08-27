@@ -18,7 +18,7 @@ Diagram of the main classes of the system
 
 Class diagram in the context of the MVC (User) pattern
 
-![image](https://github.com/user-attachments/assets/a00a1c55-960a-43ae-8f45-72814d051189)
+![image](https://github.com/user-attachments/assets/ecf04f6e-eff9-486a-a631-938ca2bedf56)
 
 Diagram of the sequence of actions
 
